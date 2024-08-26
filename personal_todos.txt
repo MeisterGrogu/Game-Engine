@@ -1,0 +1,2 @@
+1 - Change all assertions to Real Errors (helpfully website: https://www.geeksforgeeks.org/user-defined-custom-exception-in-java)
+2 - Turn the Engine into its own application.
